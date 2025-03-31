@@ -30,8 +30,8 @@ features:
             </tr>
             <tr>
               <th>8:30&nbsp;am</th>
-              <td>DBA in a Box - Shaun Thomas</td>
-              <td>Introduction to DB Design and Optimization - Lætitia Avrot</td>
+              <td>DBA in a Box - Shaun Thomas <a href="/files/dba_in_a_box.pdf" class="text-sm underline" rel="noreferrer" target="_blank">(course outline)</a></td>
+              <td>Introduction to DB Design and Optimization - Lætitia Avrot <a href="/files/intro_to_db_design_and_optimization.pdf" class="text-sm underline" rel="noreferrer" target="_blank">(course outline)</a></td>
             </tr>
             <tr>
               <th>12:00&nbsp;pm</th>
@@ -40,8 +40,8 @@ features:
             </tr>
             <tr>
               <th>1:00&nbsp;pm</th>
-              <td>Introduction to DB Design and Optimization - Lætitia Avrot</td>
-              <td>DBA in a Box - Shaun Thomas</td>
+              <td>Introduction to DB Design and Optimization - Lætitia Avrot <a href="/files/intro_to_db_design_and_optimization.pdf" class="text-sm underline" rel="noreferrer" target="_blank">(course outline)</a></td>
+              <td>DBA in a Box - Shaun Thomas <a href="/files/dba_in_a_box.pdf" class="text-sm underline" rel="noreferrer" target="_blank">(course outline)</a></td>
             </tr>
             <tr>
               <th>4:30&nbsp;pm</th>
