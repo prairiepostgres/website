@@ -9,6 +9,11 @@
       "name": "linkedin",
       "icon": "FaLinkedin",
       "link": "https://www.linkedin.com/company/105972032/"
+    },
+    {
+      "name": "mastodon",
+      "icon": "FaMastodon",
+      "link": "https://cityofchicago.live/@prairie_postgres"
     }
   ]
 }
