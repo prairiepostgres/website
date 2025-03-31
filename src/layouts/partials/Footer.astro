@@ -6,6 +6,8 @@ import menu from "@/config/menu.json";
 import social from "@/config/social.json";
 import { markdownify } from "@/lib/utils/textConverter";
 
+const { theme_switcher }: { theme_switcher: boolean } = config.settings;
+
 const { footer }: { footer: { name: string; url: string }[] } = menu;
 ---
 
@@ -28,7 +30,13 @@ const { footer }: { footer: { name: string; url: string }[] } = menu;
       </div>
       <div class="mb-8 text-right flex justify-end lg:col-3 lg:mb-0 lg:mt-0">
         <a href="https://xata.io">
-          <p>With thanks to our sponsor</p><img src="/images/sponsors/xata.png" alt="Xata.io" class="w-25 mx-auto">
+          <p>With thanks to our sponsor</p>
+          <>
+            <img src="/images/sponsors/xata_black.png" alt="Xata.io" class={`w-25 mx-auto inline-block ${theme_switcher && "dark:hidden"}`}>
+            {theme_switcher && (
+            <img src="/images/sponsors/xata_white.png" alt="Xata.io" class={"w-25 mx-auto hidden dark:inline-block"}>
+            )}
+          </>
         </a>
       </div>
     </div>
