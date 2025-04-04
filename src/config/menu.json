@@ -19,6 +19,10 @@
   ],
   "footer": [
     {
+      "name": "Bylaws",
+      "url": "/files/prairie-postgres-bylaws.pdf"
+    },
+    {
       "name": "PostgreSQL Code of Conduct",
       "url": "https://www.postgresql.org/about/policies/coc/"
     },
