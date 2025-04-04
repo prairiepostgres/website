@@ -49,7 +49,7 @@ features:
             </tr>
           </tbody></table></div>
     bulletpoints:
-      - "Great for students, junior developers, or anyone looking to understand the basics"
+      - "Great for students or anyone else looking to understand the basics"
       - "Get practice with mock interviews during the break"
       - "Attendance is **free**, but registration is required"
       - "One day before **[pgDay Chicago](https://2025.pgdaychicago.org/)**, in the same location"
