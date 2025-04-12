@@ -27,6 +27,10 @@
       "url": "https://www.postgresql.org/about/policies/coc/"
     },
     {
+      "name": "About Us",
+      "url": "/about"
+    },
+    {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
     }
