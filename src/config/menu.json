@@ -6,15 +6,15 @@
     },
     {
       "name": "Events",
-      "url": "#events"
+      "url": "/#events"
     },
     {
       "name": "News",
-      "url": "#news"
+      "url": "/#news"
     },
     {
       "name": "Join or Sponsor",
-      "url": "#join-or-sponsor"
+      "url": "/#join-or-sponsor"
     }
   ],
   "footer": [
