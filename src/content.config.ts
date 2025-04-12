@@ -111,7 +111,7 @@ const homepageCollection = defineCollection({
 // Call to Action collection schema
 const ctaSectionCollection = defineCollection({
   loader: glob({
-    pattern: "call-to-action.{md,mdx}",
+    pattern: "cta-*.{md,mdx}",
     base: "src/content/sections",
   }),
   schema: z.object({

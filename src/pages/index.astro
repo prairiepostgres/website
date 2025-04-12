@@ -30,9 +30,14 @@ const testimonial = (await getEntry(
   "testimonial"
 )) as CollectionEntry<"testimonialSection">;
 
+const join_or_sponsor = (await getEntry(
+  "ctaSection",
+  "cta-join-or-sponsor"
+)) as CollectionEntry<"ctaSection">;
+
 const call_to_action = (await getEntry(
   "ctaSection",
-  "call-to-action"
+  "cta-donate"
 )) as CollectionEntry<"ctaSection">;
 
 const { banner, features } = homepage.data as Homepage;
@@ -153,5 +158,6 @@ const { theme_switcher }: { theme_switcher: boolean } = config.settings;
   <a name="news" class="anchor"/>
   <News testimonial={testimonial} />
   <a name="donate" class="anchor"/>
+  <CallToAction call_to_action={join_or_sponsor} />
   <CallToAction call_to_action={call_to_action} />
 </Base>
