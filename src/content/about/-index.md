@@ -8,7 +8,7 @@ draft: false
 #### Our Board
 
 - President: Hettie Dombrovskaya
+- Vice President: Dian Fay
 - Secretary and Treasurer: Anna Bailliekova
-- Dian Fay
 - Shaun Thomas
 - Carlos Aranibar
