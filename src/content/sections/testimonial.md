@@ -5,6 +5,10 @@ description: "Mini updates from our team"
 
 # Testimonials
 testimonials:
+  - name: "Prairie Postgres is a recognized NPO!"
+    date: "2025-04-15"
+    content: "We're proud to announce that we're officially a **[recognized PostgreSQL non-profit organization](https://www.postgresql.org/community/recognised-npos/)**!"
+
   - name: "PGDay Chicago community sponsorship"
     date: "2025-03-26"
     content: "Prairie Postgres is proud to be a community sponsor of PGDay Chicago! See you on Friday April 25 at 540 W Madison!"
