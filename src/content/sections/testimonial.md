@@ -5,6 +5,14 @@ description: "Mini updates from our team"
 
 # Testimonials
 testimonials:
+  - name: "Developers' Summit on May 20"
+    date: "2025-05-08"
+    content: "Our next event, the Developers' Summit, is on May 20! Please don't forget to [register](https://www.meetup.com/illinois-prairie-postgresql-user-group/events/307512798/), and please bring your co-workers who develop applications with Postgres!"
+
+  - name: "Thank you Shaun and Lætitia!"
+    date: "2025-05-07"
+    content: "Prairie Postgres wants to thank Shaun Thomas and Lætitia Avrot for providing training at Student PG DATA Day 2025! Thank you so much for sharing your knowledge and helping Prairie Postgres with our mission of bringing Postgres Education to a wider audience!"
+
   - name: "Prairie Postgres is a recognized NPO!"
     date: "2025-04-15"
     content: "We're proud to announce that we're officially a **[recognized PostgreSQL non-profit organization](https://www.postgresql.org/community/recognised-npos/)**!"

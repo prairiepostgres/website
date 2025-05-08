@@ -12,50 +12,22 @@ banner:
 # Features
 features:
   - title: "Upcoming Event"
-    image: "/images/service-1.png"
-    imagedarkmode: "/images/service-1-darkmode.png"
+    # image: "/images/service-1.png"
+    # imagedarkmode: "/images/service-1-darkmode.png"
     content: <div>
-          <p>
-            Learn about foundational data administration, modeling, & optimization at a day of training, mock interviews, and networking for learners interested in using PostgreSQL in new professional contexts. Come to <b>Student PG Data Day on April 24th, 2025 at 540 W. Madison in Chicago</b>.
-          </p>
-          <table class="mt-4 mb-4">
-            <tbody><tr>
-              <th>Time</th>
-              <th>Session</th>
-              <th>Session</th>
-            </tr>
-            <tr>
-              <th>8:00&nbsp;am</th>
-              <td colspan="2">Breakfast and check-in</td>
-            </tr>
-            <tr>
-              <th>8:30&nbsp;am</th>
-              <td>DBA in a Box - Shaun Thomas <a href="/files/dba_in_a_box.pdf" class="text-sm underline" rel="noreferrer" target="_blank">(course outline)</a></td>
-              <td>Introduction to DB Design and Optimization - Lætitia Avrot <a href="/files/intro_to_db_design_and_optimization.pdf" class="text-sm underline" rel="noreferrer" target="_blank">(course outline)</a></td>
-            </tr>
-            <tr>
-              <th>12:00&nbsp;pm</th>
-              <td>Lunch break</td>
-              <td>Mock interviews</td>
-            </tr>
-            <tr>
-              <th>1:00&nbsp;pm</th>
-              <td>Introduction to DB Design and Optimization - Lætitia Avrot <a href="/files/intro_to_db_design_and_optimization.pdf" class="text-sm underline" rel="noreferrer" target="_blank">(course outline)</a></td>
-              <td>DBA in a Box - Shaun Thomas <a href="/files/dba_in_a_box.pdf" class="text-sm underline" rel="noreferrer" target="_blank">(course outline)</a></td>
-            </tr>
-            <tr>
-              <th>4:30&nbsp;pm</th>
-              <td colspan="2">Closing</td>
-            </tr>
-          </tbody></table></div>
+        <p>We invite application developers to a conversation with Postgres DBAs, Database Architects, and Database developers. We want to hear about your challenges using Postgres as your application backend and your ideas about how to improve this interaction. To add your own topic suggestions, please <a href="https://forms.gle/nzpkNMuVpxGprHy38">fill out this Google Form</a>.</p>
+        <br/>
+        <p>We will start our summit by finalizing the list of discussion topics, and then we will break into discussion groups for about 45 minutes. Then we will have a short break and will listen to the short (5-10 min) discussion summary or presentation from each group. I hope that we will be able to learn something new together!</p>
+        <br/>
+        </div>
+
     bulletpoints:
-      - "Great for students or anyone else looking to understand the basics"
-      - "Get practice with mock interviews during the break"
-      - "Attendance is **free**, but registration is required"
-      - "One day before **[pgDay Chicago](https://2025.pgdaychicago.org/)**, in the same location"
+      - "May 20, 2025"
+      - "DRW Training Center, 540 W. Madison, 25th floor."
+      - "Attendance is **free**, but [registration is required](https://www.meetup.com/illinois-prairie-postgresql-user-group/events/307512798/)"
     button:
       enable: true
       label: "Register"
-      link: "https://forms.gle/TGQcxUQnomYqRyGx9"
+      link: "https://www.meetup.com/illinois-prairie-postgresql-user-group/events/307512798/"
 
 ---
